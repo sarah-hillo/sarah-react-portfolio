@@ -222,3 +222,49 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+
+
+- Number and name of feature:1.deploy
+
+- Estimate of time needed to complete: _1 hour____
+
+- Start time: _1 pm____
+
+- Finish time: _2 pm____
+
+- Actual time needed to complete: _1 hour____
+
+
+- Number and name of feature:2.profile page
+
+- Estimate of time needed to complete:1 hour_____
+
+- Start time: __2pm___
+
+- Finish time: _4 pm____
+
+- Actual time needed to complete: _2 hours____
+
+
+- Number and name of feature:3. nav,header and footer
+- Estimate of time needed to complete: __2 hours___
+
+- Start time: _4 pm____
+
+- Finish time: _6pm____
+
+- Actual time needed to complete: 2 hours_____
+
+
+- Number and name of feature:4.portfoilo page
+- Estimate of time needed to complete: _30 mins____
+
+- Start time: 6pm_____
+
+- Finish time:7pm _____
+
+- Actual time needed to complete: _one hour____
+
+#### URL LIVE: 
+
